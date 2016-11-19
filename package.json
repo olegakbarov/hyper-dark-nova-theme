@@ -1,0 +1,14 @@
+{
+  "name": "hyper-dark-nova-theme",
+  "version": "0.1.0",
+  "description": "Nova color theme for Hyper(term) ... but darker",
+  "main": "index.js",
+  "author": {
+    "name": "Sebastian Sebald",
+    "email": "sebastian.sebald@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nova-colors": "2.1.5"
+  }
+}
